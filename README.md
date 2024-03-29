@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/ajeetkumarukande95/Sentiment-Analysis-DistilBERT-Finetuning.git
 cd <repository_name>
 ```
 ```
