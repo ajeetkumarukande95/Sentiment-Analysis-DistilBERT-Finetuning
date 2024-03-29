@@ -1,0 +1,12 @@
+torch
+transformers
+gradio
+accelerate
+datasets
+bertviz
+umap-learn
+spacy
+python -m spacy download en_core_web_sm
+beautifulsoup4
+textblob
+mlxtend
